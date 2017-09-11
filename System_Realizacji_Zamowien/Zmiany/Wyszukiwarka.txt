@@ -1,0 +1,46 @@
+View - Search - SearchPartial
+
+@model System_Realizacji_Zamowien.ViewModel.SearchViewModel
+
+@using (Html.BeginForm("Index", "Products", FormMethod.Post, null))
+{
+
+    <div>
+
+        <fieldset>
+            
+               
+    <table border="0">
+        <tr>   
+            
+            <td>
+                @Html.DisplayNameFor(m => m.SearchText)
+                @Html.TextBoxFor(m => m.SearchText)
+
+                <input type="submit" value="szukaj" style="display:inline-block" />
+            </td> 
+            </tr>
+            <tr>
+            
+            
+        </tr>
+        @foreach (var item in Model.PrimaryCategories)
+{
+    <tr style="border:medium">
+        <td style="width:200px">
+            @Html.ActionLink(item.Name, "Index", "Home", new { id = item.Id }, null)
+        </td>
+    </tr>
+}
+        <td>
+            @Html.DropDownListFor(m => m.SelectedSubCategories, Model.SubCategories)
+        </td>
+                 </table>
+                @*@Html.DropDownListFor(m => m.SelectedPrimaryCategory, Model.PrimaryCategories)*@
+       
+
+         
+        </fieldset>
+
+    </div>
+}

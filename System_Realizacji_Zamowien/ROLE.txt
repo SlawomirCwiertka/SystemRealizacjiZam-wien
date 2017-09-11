@@ -1,0 +1,4 @@
+Admin -> w³aœciciel lub osoba upowazniona do rz¹dzenia aplikacj¹
+Operator -> po stronie sprzedawcy -> modyfikacja kategori i produktów
+Sprzedawca -> po stronie sprzedawcy -> zatwierdza zamówienia
+Kupuj¹cy -> po stronie kupuj¹cego -> dodaje produkty do koszyka i przesy³a zamówienie do realizacji

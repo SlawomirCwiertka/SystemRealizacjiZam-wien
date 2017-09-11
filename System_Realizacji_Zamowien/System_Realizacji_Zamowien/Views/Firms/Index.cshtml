@@ -1,0 +1,28 @@
+﻿@model IEnumerable<System_Realizacji_Zamowien.Models.Firm>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var grid = new WebGrid(Model, canPage: true, rowsPerPage: 10);
+    grid.Pager(WebGridPagerModes.NextPrevious);
+}
+
+<div id="page-wrapper">
+    <div class="container-fluid admin-panel">
+        <a href="~/Firms/Create">
+            <center><img src="~/icons/browser9.png" /></center>
+            <center><label>Dodaj firmę</label></center>
+        </a>
+        @grid.GetHtml(columns: grid.Columns(
+        grid.Column("Name", "Nazwa"),
+        grid.Column("City", "Miasto"),
+        grid.Column("Adress", "Ulica i nr."),
+        grid.Column("PostCode", "Kod pocztowy"),
+        grid.Column("Nip", "Nip"),
+        grid.Column("Regon", "Regon"),
+        grid.Column(format: (item) => Html.ActionLink("Edycja", "Edit", new { id = item.Id })),
+        grid.Column(format: (item) => Html.ActionLink("Usuń", "Delete", new { id = item.Id })),
+        grid.Column(format: (item) => Html.ActionLink("Szczegóły", "Details", new { id = item.Id }))),
+        tableStyle: "table")
+    </div>
+</div>

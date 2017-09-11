@@ -1,0 +1,5 @@
+-dodawanie zamówieñ
+-realizacjia zamówieñ
+-wystawianie faktur 
+-ostylowane faktury, wyszukiwarka, zamówienia, admin panel, kategorie
+-edycja danych firmy

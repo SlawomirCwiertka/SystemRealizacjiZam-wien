@@ -1,0 +1,21 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.ItemCardViewModel
+
+@using (Html.BeginForm())
+{
+    <div id="page-wrapper">
+        <div class="container">
+            <div class="row">
+    <form action="" method="post" enctype="multipart/form-data">
+   Produkt ID @Html.TextBoxFor(m=>m.Product.Id)
+    <br />
+    
+   ILOSC @Html.TextBoxFor(m=>m.Count)
+
+
+        <br />
+        <input type="submit" value="Dodaj Przedmiot" />
+        </form>
+                </div>
+            </div>
+        </div>
+}

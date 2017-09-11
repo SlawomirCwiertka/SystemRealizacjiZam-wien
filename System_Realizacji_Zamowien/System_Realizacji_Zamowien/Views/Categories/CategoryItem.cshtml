@@ -1,0 +1,13 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.CategoryViewModel
+<ul class="nav nav-list tree">
+    @if (Model.SubCategories != null)
+    {
+        foreach (var item in Model.SubCategories)
+        {
+            <li class="category-item">
+                <a onclick="get(@item.Id)">@item.Name </a><i class="tree-toggler nav-header glyphicon glyphicon-plus-sign"></i>
+                @{Html.RenderPartial("CategoryItem", item);}
+            </li>
+        }
+    }
+</ul>

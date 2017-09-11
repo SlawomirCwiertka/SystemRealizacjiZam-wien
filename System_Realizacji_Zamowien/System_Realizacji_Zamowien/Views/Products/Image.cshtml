@@ -1,0 +1,14 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.ProductViewModel
+@{
+    ViewBag.Title = "Image";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="page-wrapper">
+    <div class="container-fluid">
+        <h2>@Model.Name</h2>
+        <center><img src="@Model.Photo" width="600"  /></center>
+        <center>
+            <a class="btn btn-default" href="~/Products/Product/@Model.Id ">Powrót</a>
+        </center>
+    </div>
+</div>

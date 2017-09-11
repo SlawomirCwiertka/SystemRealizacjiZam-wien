@@ -1,0 +1,30 @@
+﻿@model IEnumerable<System_Realizacji_Zamowien.ViewModel.MessageViewModel>
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-envelope"></i> <b class="caret"></b></a>
+<ul class="dropdown-menu message-dropdown">
+    @foreach (var item in Model)
+    {
+        <li class="message-preview">
+                    <a href="~/@item.Url/@item.Id">
+                        <div class="media">
+                            <span class="pull-left">
+                                <img src="~/icons/speechbubble47.png" width="30" />
+                            </span>
+                            <div class="media-body">
+                                <p class="small text-muted"><i class="fa fa-clock-o"></i>@item.Date</p>
+                                @if (!item.IsRead)
+                                {
+                                    <strong>@item.Content</strong>
+                                }
+                                else
+                                {
+                                    <p>@item.Content</p>
+                                }
+                            </div>
+                        </div>
+                    </a>
+            <a class="right" href="~/Message/Remove/@item.Id"><img src="~/icons/cross106.png" width="10" /></a>
+        </li>
+    }
+
+</ul>
+

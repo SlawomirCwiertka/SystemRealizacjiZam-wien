@@ -1,0 +1,66 @@
+﻿@model System_Realizacji_Zamowien.Models.Firm
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="page-wrapper">
+    <div class="container-fluid">
+
+        <div>
+            <h4>Firm</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.City)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.City)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Adress)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Adress)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.PostCode)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.PostCode)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Nip)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Nip)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Regon)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Regon)
+                </dd>
+            </dl>
+        </div>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+            @Html.ActionLink("Powrót do listy", "Index")
+        </p>
+    </div>
+</div>

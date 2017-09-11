@@ -1,0 +1,28 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.CategoryViewModel
+<div id="page-wrapper">
+    <div class="container category" style="width:100%; height:100%">
+        <center>
+            <div class="category-item">
+                <a onclick="get(@Model.Id)">
+                    <img src="@Model.Photo" alt="Brak Zdjęcia" />
+                    <center><label>@Model.Name</label></center>
+                </a>
+            </div>
+        </center>
+        <center><h4>Podkategorie</h4></center>
+        <hr />
+        <ul>
+            @foreach (var item in Model.SubCategories)
+            {
+                <li class="category-item">
+                    <img src="@item.Photo" alt="Brak Zdjęcia" />
+                    <center>
+                        <a onclick="get(@item.Id)">@item.Name </a><i class="tree-toggler nav-header glyphicon glyphicon-plus-sign"></i>
+                        @{Html.RenderPartial("CategoryItem", item);}
+                    </center>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+

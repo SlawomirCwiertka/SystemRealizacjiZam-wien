@@ -1,0 +1,64 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.OrdersViewModel
+
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="page-wrapper">
+    <div class="container-fluid">
+        <h1 class="page-header">
+            Zamówienia
+        </h1>
+        @foreach (var item in Model.Orders)
+        {
+            <div class="order-item">
+                <a href="~/Order/Order/@item.Id">
+                    <div class="row">
+                        <div class="col-sm-2"><center><img src="~/icons/purchase.png" /></center></div>
+                        @if (!@item.IsRead)
+                        {
+                            <strong>
+                                <div class="col-sm-4"><center>Zamówienie @item.DataOrder.ToShortDateString()/@item.Id</center></div>
+                                <div class="col-sm-3">@item.User.Name @item.User.Surname</div>
+                            </strong>
+                        }
+                        else
+                        {
+                            <div class="col-sm-4"><center>Zamówienie @item.DataOrder.ToShortDateString()/@item.Id</center></div>
+                            <div class="col-sm-3">@item.User.Name @item.User.Surname</div>
+                        }
+                        @if (item.Invoices == null || item.Invoices.Count == 0)
+                        {
+                            <div class="col-sm-3"><center><a href="~/Order/Remove/@item.Id"><img src="~/icons/cross106.png" width="30" /></a></center></div>
+                        }
+                    </div>
+                </a>
+            </div>
+            <hr />
+        }
+        @if (Model.Count > (int)Session["count"])
+        {
+            <center>
+                <nav>
+                    <ul class="pagination">
+                        <li>
+                            <a href="#" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                        @for (int i = 1; i <= Model.Count / (int)Session["count"] + 1; i++)
+                        {
+                            <li><a href="~/Order/Orders/@i">@i</a></li>
+                        }
+                        <li>
+                            <a href="#" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </center>
+        }
+    </div>
+</div>
+

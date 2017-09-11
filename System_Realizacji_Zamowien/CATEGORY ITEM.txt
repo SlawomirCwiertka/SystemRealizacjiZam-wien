@@ -1,0 +1,33 @@
+@model System_Realizacji_Zamowien.ViewModel.CategoryViewModel
+
+<a href="#" onclick="get(@Model.Id)" data-target="@Model.Id"><i class="fa fa-fw fa-dashboard"></i>@Html.ActionLink(@Model.Name,"SubCategories","Categories", new { id = @Model.Id},null) <i class="fa fa-fw fa-caret-down"></i></a>
+@*<ul id="@Model.Id" class="collapse" >, 
+   
+    @if (Model.SubCategories != null)
+    {
+        foreach (var item in Model.SubCategories)
+        {
+            <li>
+                @{Html.RenderPartial("CategoryItem", item);}
+            </li>
+        }
+    }
+</ul>*@
+@*<script>
+    function get(id) {
+        $.ajax({
+            type: "GET",
+            url: "/Products/Products?count=" + '@Session["count"]' + "&category=" + id,
+            dataType: "html",
+            success: function (data) {
+                if (!data) {
+                    $('body').html(" "); // error check
+                }
+                else {
+                    $('body').html(data);
+                }
+            },
+        })
+    };
+</script>*@
+

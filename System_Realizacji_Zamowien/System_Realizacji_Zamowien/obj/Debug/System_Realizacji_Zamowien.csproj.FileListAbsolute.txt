@@ -1,0 +1,282 @@
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll.config
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.pdb
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Web.Infrastructure.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Owin.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\WebGrease.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.pdb
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.InitialCreate.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update1.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csproj.GenerateResource.Cache
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.dll
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.pdb
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update2.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update3.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update4.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update41.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update5.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update6.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update7.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update8.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update71.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update9.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update10.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csprojResolveAssemblyReference.cache
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update101.resources
+C:\Szymon\Praca Dyplomowa\PROGRAM\LOGOWANIE\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update12.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll.config
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.pdb
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Web.Infrastructure.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Owin.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\WebGrease.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.pdb
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csprojResolveAssemblyReference.cache
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.InitialCreate.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update1.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update2.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update3.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update4.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update41.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update5.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update6.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update7.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update8.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update71.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update9.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update10.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update101.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Update12.resources
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csproj.GenerateResource.Cache
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.dll
+H:\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.pdb
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll.config
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.pdb
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Owin.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\WebGrease.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.pdb
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.pdb
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\evohtmltopdf.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\evohtmltopdf.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\evointernal.dat
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration1.resources
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csproj.GenerateResource.Cache
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csprojResolveAssemblyReference.cache
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration2.resources
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration03.resources
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.Net4.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.dll
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.pdb
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.xml
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.Net4.pdb
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration04.resources
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration06.resources
+C:\Users\Slawomir\Desktop\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration07.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.Net4.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll.config
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System_Realizacji_Zamowien.pdb
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\evohtmltopdf.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Web.Infrastructure.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Owin.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\WebGrease.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.pdb
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\AutoMapper.Net4.pdb
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\EntityFramework.SqlServer.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\evohtmltopdf.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Helpers.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Mvc.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Razor.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Deployment.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.WebPages.Razor.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\System.Web.Optimization.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Newtonsoft.Json.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Antlr3.Runtime.pdb
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Core.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Facebook.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Cookies.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.OAuth.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Google.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.Twitter.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\bin\evointernal.dat
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csprojResolveAssemblyReference.cache
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration1.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration2.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration03.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration04.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration06.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.Migrations.Migration07.resources
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.csproj.GenerateResource.Cache
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.dll
+E:\pliki z c\Praca Dyplomowa\System_Realizacji_Zamowien\System_Realizacji_Zamowien\obj\Debug\System_Realizacji_Zamowien.pdb

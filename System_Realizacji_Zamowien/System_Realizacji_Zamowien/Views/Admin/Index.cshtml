@@ -1,0 +1,34 @@
+﻿<div id="page-wrapper">
+    <div class="container-fluid">
+        <h1 class="page-header">
+            Panel zarządzania
+        </h1>
+        <div class="admin-panel">
+            @if (User.Identity.IsAuthenticated && Request.Cookies["Role"] != null && Request.Cookies["Role"].Value == "Admin")
+            {
+                <a href="~/Users/Index">
+                    <center><img src="~/icons/users6.png" /></center>
+                    <center><label>Użytkownicy</label></center>
+                </a>
+                <a href="~/Admin/Dealer">
+                    <center><img src="~/icons/selling.png" /></center>
+                    <center><label>Sprzedawca</label></center>
+                </a>
+                <a href="~/Firms/Index">
+                    <center><img src="~/icons/factory3.png" /></center>
+                    <center><label>Firmy</label></center>
+                </a>
+            }
+            <a href="~/Categories/Index">
+                <center><img src="~/icons/time32.png" /></center>
+                <center><label>Kategorie</label></center>
+            </a>
+            <a href="~/Products">
+                <center><img src="~/icons/shopping145.png" /></center>
+                <center><label>Produkty</label></center>
+            </a>
+        </div>
+    </div>
+</div>
+
+

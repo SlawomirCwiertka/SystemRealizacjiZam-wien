@@ -1,0 +1,73 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.SideBarMenuViewModel
+
+<div>
+    <ul class="nav navbar-nav side-nav">
+
+        @foreach (var item in Model.SideBarMenu)
+        {
+            <li>
+                @Html.ActionLink(@item.Name, "SubCategories", "Categories", new { @id = @item.Id }, null)
+            </li>
+        }
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                @*<ul class="nav navbar-nav side-nav">
+                        @foreach (var item in Model.SideBarMenu)
+                        {
+                            <li>
+                                @{Html.RenderPartial("CategoryItem", item);}
+                            </li>
+                        }
+                    </ul>*@
+
+
+
+
+
+
+             
+
+                @*<div id="page-wrapper">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-10">
+                                <h1 class="page-header">
+                                    Przedmioty Sprzedaży
+                                </h1>
+
+                                <li>
+                                    @{Html.RenderPartial("CategoryItem", item);}
+                                </li>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>*@
+
+
+

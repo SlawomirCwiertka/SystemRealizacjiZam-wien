@@ -1,0 +1,88 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.InvoiceViewModel
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{var grid = new WebGrid(Model.Positions);}
+<div class="container" id="page-wrapper">
+    <table >
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="750px"></td>
+                        <td>
+                            <h3>Faktura VAT</h3>
+                            <span style="font-size:24px;">FV/@Model.Date.ToShortDateString()/@Model.Id</span>
+                            <p>Oryginał</p>
+                            <p>Data sprzedarzy: @Model.Date.ToShortDateString()</p>
+                            <p>Termin zapłaty: @Model.Term.ToShortDateString()</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="600px;">
+                            <h4>Sprzedawca</h4>
+                            <p>@Model.Dealer.Name</p>
+                            <p>@Model.Dealer.City @Model.Dealer.Adress</p>
+                            <p>Kod pocztowy: @Model.Dealer.PostCode</p>
+                            <p>Nip: @Model.Dealer.Nip</p>
+                            <p>Regon: @Model.Dealer.Regon</p>
+                        </td>
+                        <td>
+                            <h4>Nabywca</h4>
+                            <p>@Model.User.FirmName</p>
+                            <p>@Model.User.FirmAdress</p>
+                            <p>Kod pocztowy: @Model.User.FirmPostCode</p>
+                            <p>NIP: @Model.User.FirmNip</p>
+                            <p>Regon: @Model.User.FirmRegon</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @grid.GetHtml(columns: grid.Columns(
+        grid.Column("Count", "Ilość"),
+        grid.Column("ProductName", "Nazwa produktu"),
+        grid.Column("Netto", "Netto"),
+        grid.Column("ProcentVat", "% Vat"),
+        grid.Column("Vat", "Vat"),
+        grid.Column("UnitOfMeasure", "jm"),
+        grid.Column("VariableNetto", "Wartość netto"),
+        grid.Column("VariableBrutto", "Wartość brutto")
+        ),
+        tableStyle: "table")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="750px;"></td>
+                        <td>
+                            <p>Razem Netto: @Model.SumNetto</p>
+                            <p>Razem Brutto: @Model.SumBrutto</p>
+                        </td>
+                    </tr>
+
+                </table>
+        </tr>
+        <tr>
+            <td>
+                    <p>Do zapłaty: <label>@Model.SumBrutto</label></p>
+                    <p>Sposób zapłaty: <label>Przelew</label></p>
+                    <p>Konto: <label>111111111111111111111</label></p>
+            </td>
+        </tr>
+    </table>
+</div>
+<a href="~/Order/DownloadInvoice/@Model.Id"  class="btn btn-default">Pobierz</a>
+
+

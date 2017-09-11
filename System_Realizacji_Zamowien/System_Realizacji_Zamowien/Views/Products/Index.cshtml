@@ -1,0 +1,26 @@
+﻿@model IEnumerable<System_Realizacji_Zamowien.ViewModel.ProductViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var grid = new WebGrid(Model, canPage: true, rowsPerPage: 10);
+    grid.Pager(WebGridPagerModes.NextPrevious);
+}
+<div id="page-wrapper">
+    <div class="container-fluid admin-panel">
+        <a href="~/Products/Create">
+            <center><img src="~/icons/shopping100.png" /></center>
+            <center><label>Dodaj nowy</label></center>
+        </a>
+        @grid.GetHtml(columns: grid.Columns(
+        grid.Column("Name", "Nazwa"),
+        grid.Column("Price", "Cena"),
+        grid.Column("Photo", "Link do zdjęcia"),
+        grid.Column("Vat", "Vat"),
+        grid.Column("Availability", "Dostępność"),
+        grid.Column(format: (item) => Html.ActionLink("Edycja", "Edit", new { id = item.Id })),
+        grid.Column(format: (item) => Html.ActionLink("Usuń", "Delete", new { id = item.Id })),
+        grid.Column(format: (item) => Html.ActionLink("Szczegóły", "Details", new { id = item.Id }))),
+        tableStyle: "table")
+    </div>
+</div>

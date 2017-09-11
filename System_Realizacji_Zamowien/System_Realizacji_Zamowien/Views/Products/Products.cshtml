@@ -1,0 +1,79 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.ProductsViewModel
+
+<div id="page-wrapper">
+    <div class="container-fluid">
+        <script src="~/Scripts/jquery-1.10.2.js"></script>
+        <div id="page-wrapper">
+            <div class="row">
+                <div class="col-sm-8">
+                    @{Html.RenderPartial("SearchPartial");}
+                </div>
+                <div class="col-sm-2">
+                    <select class="form-control" id="count" onchange="button:onclick">
+                        <option>5</option>
+                        <option>10</option>
+                        <option>15</option>
+                    </select>
+                </div>
+                <div class="col-sm-2">
+                    <button class="btn btn-default" id="button">Pokaż</button>
+                </div>
+                <hr />
+
+                <div class="row text-right">Ilość Produktów: <label>@Model.CountAll</label></div>
+                <center>
+                    Strona
+                    @for (int i = 1; i <= (Model.CountAll / Model.SetCount) + 1; i++)
+                    {
+                        <label> @Html.ActionLink(i.ToString(), "Products", new { page = i, count = @Session["count"], category = @Session["category"], searchText = @Session["text"] })</label>
+                    }
+                </center>
+                <hr />
+                @foreach (var item in Model.Products)
+                {
+                    <div class="products-item">
+                        <div class="row">
+                            <a href="~/Products/Product/@item.Id">
+                                <div class="col-sm-3"><center><img src="@item.LinkPhoto" alt="Nieokreślony Błąd" style="height:100px; width:140px;" /></center></div>
+                                <div class="col-sm-3"><center><label>@item.Name</label></center></div>
+                                <div class="col-sm-2"><center> Cena: <br />@Html.DisplayFor(m => item.Price) zł </center></div>
+                                <div class="col-sm-2"><center>Ilość Dostępna <br />@Html.DisplayFor(m => item.Availability) szt </center></div>
+                                <div class="col-sm-2">
+                                    <center>Kategoria</center>
+                                    <center>@item.Category.Name</center>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <hr />
+                }
+
+                <center>
+                    Strona
+                    @for (int i = 1; i <= (Model.CountAll / Model.SetCount) + 1; i++)
+                    {
+                        <label> @Html.ActionLink(i.ToString(), "Products", new { page = i, count = @Session["count"], category = @Session["category"], searchText = @Session["text"] })</label>
+                    }
+                </center>
+            </div>
+        </div>
+    </div>
+    <script>
+        $("#button").click(function () {
+            $.ajax({
+                type: "GET",
+
+                url: "Products/Products?count=" + $("#count").val() + '&category=' + '@Session["category"]',
+                dataType: "html",
+                success: function (data) {
+                    if (!data) {
+                        $('body').html(" "); // error check
+                    }
+                    else {
+                        $('body').html(data);
+                    }
+                },
+            });
+        });
+    </script>
+

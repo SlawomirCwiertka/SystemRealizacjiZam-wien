@@ -1,0 +1,40 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.ProductViewModel
+
+<div id="page-wrapper">
+    <div class="container-fluid">
+        <h2 class="page-header">
+            @Model.Name
+        </h2>
+        <div class="row"><center>Kategoria:   @Model.SelectPrimaryCategory </center></div>
+        <hr />
+        <div class="row">
+            <div class="col-md-6"><a href="~/Products/Image/@Model.Id" class="thumbnail" data-galery><img src="@Model.Photo" align="top" width="400" /></a></div>
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-3"><label class="price">@String.Format("{0:C}", Model.Price)</label></div>
+                    @if (Request.Cookies["role"] != null && Request.Cookies["role"].Value == "User")
+                    {
+                        <div class="col-md-4"><input type="number" class="number form-control col-md-5" min="0" max="@Model.Availability" id="countItem" /><label style="margin-top:5px;">szt.</label></div>
+                    }
+                </div>
+                @if (Request.Cookies["role"] != null && Request.Cookies["role"].Value == "Admin")
+                {
+                    <div class="row">
+                        @Html.ActionLink("Zmień", "ProductProperties", "Product", new { @Model.Id }, null)
+                        @Html.ActionLink("Usuń", "Remove", "Product", new { id = Model.Id }, null)
+                    </div>
+                }
+                <hr />
+                <div class="row">@Model.Description</div>
+                <hr />
+                @if (Request.Cookies["role"] != null && Request.Cookies["role"].Value == "User")
+                {
+                    <button class="btn btn-default" style="float:right" onclick="addItem(@Model.Id)">Dodaj do koszyka</button>
+                }
+
+            </div>
+        </div>
+        <hr />
+        @Html.HiddenFor(x => x.Availability, new { @id = "avaibility" })
+    </div>
+</div>

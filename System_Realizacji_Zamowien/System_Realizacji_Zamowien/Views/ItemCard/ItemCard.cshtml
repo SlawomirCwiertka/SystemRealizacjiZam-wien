@@ -1,0 +1,20 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.ItemCardViewModel
+@ViewBag.Title = "ItemCard";
+
+<div id="page-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10">
+
+                @Html.DisplayFor(m=>m.User.Name);
+                @Html.DisplayFor(m => m.Product.Name);
+             @*@Html.DisplayFor(m=>m.Product.Id)
+                @Html.DisplayFor(m =>m.User.Name)
+                @Html.DisplayFor(m=>m.Id)
+                @Html.DisplayFor(m=>m.Count)*@
+                
+                </div>
+            </div>
+        </div>
+    </div>
+

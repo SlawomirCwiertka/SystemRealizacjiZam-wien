@@ -1,0 +1,40 @@
+﻿<form class="form-horizontal">
+    <div class="row">
+        <div class="col-lg-10">
+            <div class="input-group">
+                <input id="text" type="text" class="form-control" placeholder="Wyszukaj ..." value="@Session["text"]">
+                <span class="input-group-btn">
+                    <button id="search" class="btn btn-primary" type="button">Szukaj</button>
+                </span>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $("#search").click(function () {
+        changeLocation();
+    });
+    $("#text").keyup(function (event) {
+        if (event.keyCode == 13) {
+            changeLocation();
+        }
+    });
+    function changeLocation()
+    {
+       // window.location = "/Products?count=10" + '&category=' + '@Session["category"]' + '&searchText=' + $("#text").val();
+        $.ajax({
+            type: "GET",
+
+            url: "/Products/Products?count=" + '@Session["count"]' + '&category=' + '@Session["category"]' + '&searchText=' + $("#text").val(),
+            dataType: "html",
+            success: function (data) {
+                if (!data) {
+                    $('body').html(" "); // error check
+                }
+                else {
+                    $('body').html(data);
+                }
+            },
+        });
+    }
+</script>

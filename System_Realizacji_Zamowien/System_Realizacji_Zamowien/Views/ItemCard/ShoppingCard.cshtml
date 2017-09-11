@@ -1,0 +1,27 @@
+﻿@model IEnumerable<System_Realizacji_Zamowien.ViewModel.ItemCardViewModel>
+<div id="page-wrapper">
+    <div class="container-fluid">
+        <h1 class="page-header">
+            <label> KOSZYK </label>
+        </h1>
+        @foreach (var item in Model)
+        {
+            <div class="order-item">
+                <a href="~/Products/Product/@item.Product.Id">
+                    <div class="row">
+                        <div class="col-sm-3"><center><img src="@item.Product.LinkPhoto" width="100"/></center></div>
+                        <div class="col-sm-5"><center>@item.ProductName</center></div>
+                        <div class="col-sm-2"><center><label>@item.Count</label></center></div>
+                        <div class="col-sm-2"><center><a href="~/ItemCard/Remove/@item.Id"><img src="~/icons/round.png" width="30"/></a></center></div>
+                    </div>
+                </a>
+            </div>
+            <hr />
+        }
+        @if (@Model.Count() > 0)
+        {
+            @Html.ActionLink("Realizuj", "AddOrder", "Order", null, new { @class = "btn btn-default" })
+        }
+    </div>
+</div>
+

@@ -1,0 +1,34 @@
+                            <label>Login @Html.TextBoxFor(m => m.Login, new { @class = "form-control" })</label>
+
+                            @Html.ValidationMessageFor(m => m.Login)
+                            <br />
+                            <label>Imiê</label>
+                            <br />
+                            @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Name)
+                            <br />
+                            <label>Nazwisko</label>
+                            <br />
+                            @Html.TextBoxFor(m => m.Surname, new { @class = "form-control" })
+
+                            @Html.ValidationMessageFor(m => m.Surname)
+                            <br />
+                            <label>Has³o</label>
+
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+
+                            @Html.ValidationMessageFor(m => m.Password)
+                            <br />
+
+                            <label>Telefon</label>
+                            <br />
+                            @Html.TextBoxFor(m => m.Phone, new { @class = "form-control" })
+
+                            @Html.ValidationMessageFor(m => m.Phone)
+                            <br />
+
+                            <label>Uprawnienia</label>
+                            @Html.DropDownListFor(m => m.SelectedAccess, Model.Accesses, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.SelectedAccess)
+
+                           

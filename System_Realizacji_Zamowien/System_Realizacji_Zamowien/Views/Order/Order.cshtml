@@ -1,0 +1,58 @@
+﻿@model System_Realizacji_Zamowien.ViewModel.OrderViewModel
+@using System_Realizacji_Zamowien.ViewModel
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("AddInvoice", "Order"))
+{
+    <div id="page-wrapper">
+        <div class="container-fluid">
+            <h1 class="page-header">Zamówienie</h1>
+            Data zamówienia:
+            @Html.DisplayFor(model => model.DataOrder)/@Model.Id
+            <center><h2>Przedmioty:</h2></center>
+            @for (int i = 0; i < Model.Items.Count; i++)
+            {
+                <div class="order-item">
+                    <div class="row">
+                        <div class="col-sm-3"><center><img src="@Model.Items[i].Product.LinkPhoto" alt="Nieokreślony Błąd" style="height:100px; width:140px;" /></center></div>
+                        <div class="col-sm-4"><center>@Model.Items[i].Product.Name</center></div>
+                        <div class="col-sm-3">Ilość: @Model.Items[i].Count </div>
+                        @if (Request.Cookies["Role"].Value != "User")
+                        {
+                            <div class="col-sm-2">Do faktury: @Html.TextBoxFor(m => Model.Items[i].ToInvoice, new { @type = "number", @class = "number", @min = "0", @max = Model.Items[i].ToInvoice })</div>
+                        }
+                    </div>
+                </div>
+                <hr />
+                @Html.HiddenFor(x => Model.Items[i].Id)
+                @Html.HiddenFor(x => Model.Items[i].Product.Id)
+                @Html.HiddenFor(x => Model.Items[i].User.Id)
+            }
+        </div>
+        @Html.HiddenFor(x => Model.Id)
+        <center><h3>Faktury</h3></center>
+        @if (@Model.Items.Sum(x => x.ToInvoice) > 0 && Request.Cookies["Role"].Value != "User")
+        {
+            <div class="row"><center>Określ czas do zapłaty: @Html.TextBoxFor(m => Model.TimeToPay, new { @type = "number", @class = "number", @min = "0" }) dni</center></div>
+            <input class="btn btn-default" type="submit" value="Wystaw fakture" />
+        }
+        @foreach (var item in Model.Invoices)
+        {
+            <div class="order-item">
+                <div class="row">
+                    <a href="~/Order/Invoice/@item.Id">
+                        <div class="col-sm-6"><center>FV/@item.Date.ToShortDateString()/@Model.Id</center></div>
+                        <div class="col-sm-3">Pozycji: @item.Positions.Count</div>
+                    </a>
+                </div>
+            </div>
+            <hr />
+
+        }
+    </div>
+}
+
+
